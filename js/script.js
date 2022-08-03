@@ -324,7 +324,7 @@ window.addEventListener('DOMContentLoaded', function() {
         plusSlides(1);
     });
 });
-// Calc 
+// UpdateCalc 
 
     function updateStaticInformation(selector, activeClass) {
         const elements = document.querySelectorAll(selector); 
